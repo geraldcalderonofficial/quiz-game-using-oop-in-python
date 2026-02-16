@@ -2,4 +2,4 @@
 
   Creating a quiz game using Object-Oriented Programming (OOP) in Python involves defining classes to structure the questions, the quiz logic, and potentially the user interface. 
 
-  [Gerald Works](https://github.com/geraldcalderonofficial/quiz-game-using-oop-in-python)
+  [Gerald Works](https://geraldworks.dev/quiz-game-using-oop-in-python/)
